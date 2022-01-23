@@ -1,0 +1,26 @@
+{
+  "name": "CircuitOnline",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "bootstrap": "^4.6.1",
+    "codemirror": "^5.65.0",
+    "css-loader": "^6.5.1",
+    "dom-to-image": "^2.6.0",
+    "driver.js": "^0.9.8",
+    "jquery": "^3.6.0",
+    "jquery-ui": "^1.13.0",
+    "popper.js": "^1.16.1",
+    "postcss": "^8.4.5",
+    "postcss-loader": "^6.2.1",
+    "postcss-nested": "^5.0.6",
+    "postcss-scss": "^4.0.3",
+    "style-loader": "^3.3.1"
+  }
+}
